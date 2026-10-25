@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# Big dataset
+*.csv
+*.xlsx
+*.zip
+data/raw/
+
+# TEMP Power BI
+*.pbix.temp
